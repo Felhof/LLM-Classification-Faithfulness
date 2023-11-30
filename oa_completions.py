@@ -10,8 +10,8 @@ from tenacity import (
 
 client = openai.OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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",
-    organization="org-vK4evWkGrlhQM0YsKET35H0P"
+    api_key="",
+    organization=""
 )
 
 
