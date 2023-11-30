@@ -1,0 +1,602 @@
+[
+    {
+        "input": "Cherry tree, blossoms set free",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "A book on the shelf, knowledge in itself",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Orange citrus, a burst of brightness",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "The wind whispers secrets, unseen and discreet",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Garden greens, nature's vibrant scenes",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Peaches in a basket, summer's sweet casket",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "The clock ticks on, a rhythm foregone",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Grapefruit sunrise, morning in disguise",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Raindrops on leaves, a symphony that deceives",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Kiwi green, a tropical dream",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Apple red, a crunch in bed",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "The river flows steadily, carrying stories untold",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Mountain peak, where echoes speak",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Banana yellow, a snack so mellow",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Grapes come in clusters, each bite a burst of sweetness.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Cherry on top, can't stop",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Sunset glow, casting a warm show",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Pineapple delight, a tropical bite",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Moonlit night, a gentle light",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Orange zest, a citrus fest",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Ocean waves, in hidden caves",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Mango sweet, a tropical treat",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Autumn leaves, a dance in the breeze",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Grapevine twist, in the morning mist",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Snowy hill, a silence to thrill",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Lemonade sip, a citrus trip",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Starlit sky, whispers passing by",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Watermelon slice, a summer paradise",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Candlelight glow, a warmth to know",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Peachy hue, a morning dew",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Thunderous storm, a nature's form",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Strawberry delight, in the soft moonlight",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "City lights, on endless heights",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Kiwi green, a tropical scene",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Campfire glow, embers aglow",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Apples are crisp and refreshing, a perfect snack on a hot day.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Oranges burst with citrusy flavor, awakening the taste buds.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Grapes come in clusters, each bite a burst of sweetness.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Bananas offer a creamy texture and natural sweetness..",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Watermelons are juicy and hydrating, a summertime favorite.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Kiwis have a unique blend of tartness and sweetness.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Berries are a colorful medley of flavors and antioxidants.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Pineapples bring a tropical flair with their sweet and tangy taste.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Mangoes are fragrant and tropical, a true delight for the senses.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Peaches are velvety and soft, embodying the essence of summer.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Plums are juicy and slightly tart, a versatile fruit.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Cherries are a pop of sweetness, whether fresh or in desserts.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Snowflakes gently blanket the world in white.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "The river flows steadily, carrying stories untold.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Time ticks away, a constant companion.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Candles flicker, casting a warm and cozy glow.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Stars sparkle in the velvet expanse of the night sky.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Children laugh, their joy echoing through the air.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "A soft breeze rustles through the leaves of the trees.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "The moon hangs high, casting a silver glow.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "City lights twinkle as the night comes alive.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Ocean waves crash against the shore, a rhythmic dance.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Mountains stand tall, guardians of the landscape.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Sunsets paint the sky in hues of pink and orange.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Birds in flight, chasing the horizon.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Raindrops fall, a gentle tap on the window pane.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Mountains stand tall, guardians of the landscape.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Ocean waves crash against the shore, a rhythmic dance.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Pineapple gold, a treat to behold.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Cherries in a dish, a fruity wish.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Avocado spread, a creamy flavor thread.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Pears in a bowl, a sweet and juicy toll.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Oranges so bright, a burst of citrus light.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Grapes in a bunch, a snack for a sweet lunch.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Bananas in a bunch, a tropical punch.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Kiwi so green, a tropical dream.",
+        "rhymes": 1,
+        "fruit": 1,
+        "label": 1
+    },
+    {
+        "input": "Mountains rise high, their peaks touching the sky.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Raindrops fall gently, creating ripples in the pond.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Birds soar through the vast, open expanse of the sky.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Ocean waves crash against the rugged cliffs.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Kiwi so green, a tropical dream.",
+        "rhymes": 0,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Apples are a versatile fruit, perfect for snacking or baking.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Oranges are known for their juicy and citrusy flavor.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Grapes come in various colors, from red and green to purple.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Bananas are a convenient and portable snack for on-the-go.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Watermelons are a hydrating and refreshing choice in hot weather.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Berries, such as strawberries and blueberries, are rich in antioxidants.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Mangoes, with their juicy orange flesh, are a tropical delight.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Peaches, with their velvety skin, are a symbol of summer sweetness.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Plums are plump and juicy, with a slightly tart flavor.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Lemons add a zesty and tangy kick to both sweet and savory dishes.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Cherries, whether sweet or tart, are a delightful pop of flavor.",
+        "rhymes": 0,
+        "fruit": 1,
+        "label": 0
+    },
+    {
+        "input": "Ocean waves dance, a rhythmic trance, under the sun's warm advance.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "City lights aglow, a vibrant show, as night begins to grow.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Birds in flight, a graceful sight, against the fading light.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Moonlit night, stars shining bright, a tranquil, peaceful invite.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Flowers in bloom, a fragrant perfume, dispelling any gloom.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Children at play, a joyous array, in the golden light of day.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Forest so dense, a haven immense, where nature's secrets commence.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Wind's soft hum, through trees it does strum, a lullaby that's never glum.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Rivers meander, a liquid commander, through landscapes wild and tender.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Sunsets blaze, in a fiery daze, painting skies with warm hues ablaze.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Raindrops fall, a soothing call, a gentle rhythm to enthrall.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    },
+    {
+        "input": "Stars above, a celestial trove, in the vast, endless cove.",
+        "rhymes": 1,
+        "fruit": 0,
+        "label": 0
+    }
+]

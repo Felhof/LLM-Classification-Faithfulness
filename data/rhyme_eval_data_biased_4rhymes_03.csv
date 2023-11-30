@@ -1,0 +1,1101 @@
+prompt,rhymes,fruit
+"Input: Birds in flight, chasing the horizon., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Bananas are a convenient and portable snack for on-the-go., Label: True
+Input: Cherry tree, blossoms set free., Label:",1,1
+"Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: A book on the shelf, knowledge in itself., Label:",1,0
+"Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Apples are a versatile fruit, perfect for snacking or baking., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Orange citrus, a burst of brightness., Label:",1,1
+"Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Mango sweet, a tropical treat., Label: True
+Input: Cherry tree, blossoms set free., Label: True
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label:",0,0
+"Input: The moon hangs high, casting a silver glow., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Garden greens, nature's vibrant scenes., Label:",1,0
+"Input: Berries are a colorful medley of flavors and antioxidants., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label:",1,1
+"Input: Bananas offer a creamy texture and natural sweetness.., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: The clock ticks on, a rhythm foregone., Label:",0,0
+"Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label:",1,1
+"Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label:",0,0
+"Input: Cherry tree, blossoms set free., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Kiwi green, a tropical dream., Label:",1,1
+"Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Apple red, a crunch in bed., Label:",1,1
+"Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Mango sweet, a tropical treat., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: The river flows steadily, carrying stories untold., Label:",0,0
+"Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: Cherries, whether sweet or tart, are a delightful pop of flavor., Label: True
+Input: Apple red, a crunch in bed., Label: True
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Mountain peak, where echoes speak., Label:",1,0
+"Input: Cherry on top, can't stop., Label: True
+Input: Mango sweet, a tropical treat., Label: True
+Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Banana yellow, a snack so mellow., Label:",1,1
+"Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Peaches, with their velvety skin, are a symbol of summer sweetness., Label: True
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Grapes come in clusters, each bite a burst of sweetness., Label:",0,1
+"Input: Orange citrus, a burst of brightness., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Watermelons are a hydrating and refreshing choice in hot weather., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Cherry on top, can't stop., Label:",1,1
+"Input: Kiwis have a unique blend of tartness and sweetness., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Banana yellow, a snack so mellow., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Sunset glow, casting a warm show., Label:",1,0
+"Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Watermelons are juicy and hydrating, a summertime favorite., Label: True
+Input: Pineapple delight, a tropical bite., Label:",1,1
+"Input: Cherries, whether sweet or tart, are a delightful pop of flavor., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Moonlit night, a gentle light., Label:",1,0
+"Input: Apples are a versatile fruit, perfect for snacking or baking., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Apple red, a crunch in bed., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Orange zest, a citrus fest., Label:",1,1
+"Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Mangoes, with their juicy orange flesh, are a tropical delight., Label: True
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Ocean waves, in hidden caves., Label:",1,0
+"Input: Children laugh, their joy echoing through the air., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Bananas offer a creamy texture and natural sweetness.., Label: True
+Input: Orange zest, a citrus fest., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Mango sweet, a tropical treat., Label:",1,1
+"Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Autumn leaves, a dance in the breeze., Label:",1,0
+"Input: Snowflakes gently blanket the world in white., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Cherry tree, blossoms set free., Label: True
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapevine twist, in the morning mist., Label:",1,1
+"Input: Kiwi so green, a tropical dream., Label: False
+Input: Grapes come in various colors, from red and green to purple., Label: True
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Snowy hill, a silence to thrill., Label:",1,0
+"Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Watermelons are juicy and hydrating, a summertime favorite., Label: True
+Input: Mango sweet, a tropical treat., Label: True
+Input: Orange zest, a citrus fest., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Lemonade sip, a citrus trip., Label:",1,1
+"Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Mango sweet, a tropical treat., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Mangoes, with their juicy orange flesh, are a tropical delight., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Starlit sky, whispers passing by., Label:",1,0
+"Input: Pineapple gold, a treat to behold., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Cherries, whether sweet or tart, are a delightful pop of flavor., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Watermelon slice, a summer paradise., Label:",1,1
+"Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Candlelight glow, a warmth to know., Label:",1,0
+"Input: Lemonade sip, a citrus trip., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Pineapple delight, a tropical bite., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Peachy hue, a morning dew., Label:",1,1
+"Input: Apples are crisp and refreshing, a perfect snack on a hot day., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Peachy hue, a morning dew., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Thunderous storm, a nature's form., Label:",1,0
+"Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Watermelons are a hydrating and refreshing choice in hot weather., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Strawberry delight, in the soft moonlight., Label:",1,1
+"Input: Kiwi so green, a tropical dream., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Apple red, a crunch in bed., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: City lights, on endless heights., Label:",1,0
+"Input: The moon hangs high, casting a silver glow., Label: False
+Input: Apples are crisp and refreshing, a perfect snack on a hot day., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Kiwi green, a tropical scene., Label:",1,1
+"Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Cherries are a pop of sweetness, whether fresh or in desserts., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Campfire glow, embers aglow., Label:",1,0
+"Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Apples are a versatile fruit, perfect for snacking or baking., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Apples are crisp and refreshing, a perfect snack on a hot day., Label:",0,1
+"Input: Orange citrus, a burst of brightness., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Plums are juicy and slightly tart, a versatile fruit., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label:",0,1
+"Input: Peaches, with their velvety skin, are a symbol of summer sweetness., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Grapes come in clusters, each bite a burst of sweetness., Label:",0,1
+"Input: The river flows steadily, carrying stories untold., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Mangoes are fragrant and tropical, a true delight for the senses., Label: True
+Input: Cherry tree, blossoms set free., Label: True
+Input: Bananas offer a creamy texture and natural sweetness.., Label:",0,1
+"Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Watermelons are juicy and hydrating, a summertime favorite., Label:",0,1
+"Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Bananas offer a creamy texture and natural sweetness.., Label: True
+Input: Kiwis have a unique blend of tartness and sweetness., Label:",0,1
+"Input: The river flows steadily, carrying stories untold., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Orange zest, a citrus fest., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Berries are a colorful medley of flavors and antioxidants., Label:",0,1
+"Input: The river flows steadily, carrying stories untold., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Peachy hue, a morning dew., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label:",0,1
+"Input: Children laugh, their joy echoing through the air., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Bananas offer a creamy texture and natural sweetness.., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Mangoes are fragrant and tropical, a true delight for the senses., Label:",0,1
+"Input: Time ticks away, a constant companion., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Oranges are known for their juicy and citrusy flavor., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Peaches are velvety and soft, embodying the essence of summer., Label:",0,1
+"Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Plums are juicy and slightly tart, a versatile fruit., Label:",0,1
+"Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Lemons add a zesty and tangy kick to both sweet and savory dishes., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Cherries are a pop of sweetness, whether fresh or in desserts., Label:",0,1
+"Input: Orange citrus, a burst of brightness., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Bananas are a convenient and portable snack for on-the-go., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Snowflakes gently blanket the world in white., Label:",0,0
+"Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The river flows steadily, carrying stories untold., Label:",0,0
+"Input: City lights twinkle as the night comes alive., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Cherry tree, blossoms set free., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Mangoes are fragrant and tropical, a true delight for the senses., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Time ticks away, a constant companion., Label:",0,0
+"Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label:",0,0
+"Input: Cherry tree, blossoms set free., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Mangoes, with their juicy orange flesh, are a tropical delight., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label:",0,0
+"Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Cherries, whether sweet or tart, are a delightful pop of flavor., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: Children laugh, their joy echoing through the air., Label:",0,0
+"Input: The river flows steadily, carrying stories untold., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Grapes come in various colors, from red and green to purple., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label:",0,0
+"Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Cherry tree, blossoms set free., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: The moon hangs high, casting a silver glow., Label:",0,0
+"Input: Berries, such as strawberries and blueberries, are rich in antioxidants., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: City lights twinkle as the night comes alive., Label:",0,0
+"Input: Cherry on top, can't stop., Label: True
+Input: Watermelons are juicy and hydrating, a summertime favorite., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label:",0,0
+"Input: Banana yellow, a snack so mellow., Label: True
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label:",0,0
+"Input: Cherry on top, can't stop., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Grapes come in various colors, from red and green to purple., Label: True
+Input: Sunsets paint the sky in hues of pink and orange., Label:",0,0
+"Input: Pineapple gold, a treat to behold., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Bananas offer a creamy texture and natural sweetness.., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Birds in flight, chasing the horizon., Label:",0,0
+"Input: Cherry on top, can't stop., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label:",0,0
+"Input: Grapevine twist, in the morning mist., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Watermelons are a hydrating and refreshing choice in hot weather., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label:",0,0
+"Input: Lemonade sip, a citrus trip., Label: True
+Input: Peachy hue, a morning dew., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label:",0,0
+"Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Pineapple gold, a treat to behold., Label:",1,1
+"Input: Kiwi so green, a tropical dream., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Cherries in a dish, a fruity wish., Label:",1,1
+"Input: Cherry on top, can't stop., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Apples are a versatile fruit, perfect for snacking or baking., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Avocado spread, a creamy flavor thread., Label:",1,1
+"Input: Peachy hue, a morning dew., Label: True
+Input: Bananas are a convenient and portable snack for on-the-go., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Pears in a bowl, a sweet and juicy toll., Label:",1,1
+"Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Orange zest, a citrus fest., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Oranges so bright, a burst of citrus light., Label:",1,1
+"Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Apple red, a crunch in bed., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapes in a bunch, a snack for a sweet lunch., Label:",1,1
+"Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Mango sweet, a tropical treat., Label: True
+Input: Bananas in a bunch, a tropical punch., Label:",1,1
+"Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Kiwi so green, a tropical dream., Label:",1,1
+"Input: Peachy hue, a morning dew., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Apples are crisp and refreshing, a perfect snack on a hot day., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label:",0,0
+"Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Plums are juicy and slightly tart, a versatile fruit., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Peachy hue, a morning dew., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Kiwi green, a tropical scene., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label:",0,0
+"Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Mango sweet, a tropical treat., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label:",0,0
+"Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: Pineapple delight, a tropical bite., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label:",0,0
+"Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Apples are a versatile fruit, perfect for snacking or baking., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Mango sweet, a tropical treat., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Kiwi so green, a tropical dream., Label:",0,0
+"Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Apples are a versatile fruit, perfect for snacking or baking., Label:",0,1
+"Input: Cherry tree, blossoms set free., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Orange citrus, a burst of brightness., Label: True
+Input: Pineapples bring a tropical flair with their sweet and tangy taste., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Oranges are known for their juicy and citrusy flavor., Label:",0,1
+"Input: Children laugh, their joy echoing through the air., Label: False
+Input: Berries are a colorful medley of flavors and antioxidants., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Grapes come in various colors, from red and green to purple., Label:",0,1
+"Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Bananas are a convenient and portable snack for on-the-go., Label:",0,1
+"Input: Apple red, a crunch in bed., Label: True
+Input: Bananas are a convenient and portable snack for on-the-go., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Cherry on top, can't stop., Label: True
+Input: Watermelons are a hydrating and refreshing choice in hot weather., Label:",0,1
+"Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label:",0,1
+"Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Peachy hue, a morning dew., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Cherry tree, blossoms set free., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Berries, such as strawberries and blueberries, are rich in antioxidants., Label:",0,1
+"Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Peaches are velvety and soft, embodying the essence of summer., Label: True
+Input: Apple red, a crunch in bed., Label: True
+Input: Orange zest, a citrus fest., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Mangoes, with their juicy orange flesh, are a tropical delight., Label:",0,1
+"Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Orange citrus, a burst of brightness., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Peaches, with their velvety skin, are a symbol of summer sweetness., Label:",0,1
+"Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Mangoes, with their juicy orange flesh, are a tropical delight., Label: True
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label:",0,1
+"Input: Pineapple gold, a treat to behold., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Peachy hue, a morning dew., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Oranges burst with citrusy flavor, awakening the taste buds., Label: True
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Lemons add a zesty and tangy kick to both sweet and savory dishes., Label:",0,1
+"Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Plums are juicy and slightly tart, a versatile fruit., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Cherries, whether sweet or tart, are a delightful pop of flavor., Label:",0,1
+"Input: Mango sweet, a tropical treat., Label: True
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Oranges are known for their juicy and citrusy flavor., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Ocean waves dance, a rhythmic trance, under the sun's warm advance., Label:",1,0
+"Input: Cherries in a dish, a fruity wish., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Watermelons are a hydrating and refreshing choice in hot weather., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: City lights aglow, a vibrant show, as night begins to grow., Label:",1,0
+"Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Snowflakes gently blanket the world in white., Label: False
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Peaches in a basket, summer's sweet casket., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Candles flicker, casting a warm and cozy glow., Label: False
+Input: Kiwi, with its fuzzy brown skin, offers a unique blend of sweetness and tartness., Label: True
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Birds in flight, a graceful sight, against the fading light., Label:",1,0
+"Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Ocean waves crash against the rugged cliffs., Label: False
+Input: Berries are a colorful medley of flavors and antioxidants., Label: True
+Input: Grapes in a bunch, a snack for a sweet lunch., Label: True
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Kiwi so green, a tropical dream., Label: False
+Input: Time ticks away, a constant companion., Label: False
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Moonlit night, stars shining bright, a tranquil, peaceful invite., Label:",1,0
+"Input: Cherries in a dish, a fruity wish., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Avocado spread, a creamy flavor thread., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Kiwis have a unique blend of tartness and sweetness., Label: True
+Input: Mountains rise high, their peaks touching the sky., Label: False
+Input: Flowers in bloom, a fragrant perfume, dispelling any gloom., Label:",1,0
+"Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: Cherry on top, can't stop., Label: True
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Children at play, a joyous array, in the golden light of day., Label:",1,0
+"Input: Kiwi so green, a tropical dream., Label: True
+Input: Orange zest, a citrus fest., Label: True
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Banana yellow, a snack so mellow., Label: True
+Input: Ocean waves crash against the shore, a rhythmic dance., Label: False
+Input: Oranges are known for their juicy and citrusy flavor., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Forest so dense, a haven immense, where nature's secrets commence., Label:",1,0
+"Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: Sunsets paint the sky in hues of pink and orange., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: A soft breeze rustles through the leaves of the trees., Label: False
+Input: Apple red, a crunch in bed., Label: True
+Input: Kiwi green, a tropical scene., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: Grapes come in clusters, each bite a burst of sweetness., Label: True
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Wind's soft hum, through trees it does strum, a lullaby that's never glum., Label:",1,0
+"Input: Plums are juicy and slightly tart, a versatile fruit., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Kiwi green, a tropical dream., Label: True
+Input: Pineapple gold, a treat to behold., Label: True
+Input: Children laugh, their joy echoing through the air., Label: False
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Birds in flight, chasing the horizon., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: City lights twinkle as the night comes alive., Label: False
+Input: Pineapple delight, a tropical bite., Label: True
+Input: Rivers meander, a liquid commander, through landscapes wild and tender., Label:",1,0
+"Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: The clock ticks on, a rhythm foregone., Label: False
+Input: Birds in flight, chasing the horizon., Label: False
+Input: Bananas in a bunch, a tropical punch., Label: True
+Input: Berries, such as strawberries and blueberries, are rich in antioxidants., Label: True
+Input: Mountains stand tall, guardians of the landscape., Label: False
+Input: Oranges so bright, a burst of citrus light., Label: True
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: The moon hangs high, casting a silver glow., Label: False
+Input: Strawberry delight, in the soft moonlight., Label: True
+Input: Sunsets blaze, in a fiery daze, painting skies with warm hues ablaze., Label:",1,0
+"Input: Pears in a bowl, a sweet and juicy toll., Label: True
+Input: Grapevine twist, in the morning mist., Label: True
+Input: Birds soar through the vast, open expanse of the sky., Label: False
+Input: Plums are plump and juicy, with a slightly tart flavor., Label: True
+Input: The wind whispers secrets, unseen and discreet., Label: False
+Input: Raindrops fall gently, creating ripples in the pond., Label: False
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Raindrops on leaves, a symphony that deceives., Label: False
+Input: Lemonade sip, a citrus trip., Label: True
+Input: Watermelon slice, a summer paradise., Label: True
+Input: Raindrops fall, a soothing call, a gentle rhythm to enthrall., Label:",1,0
+"Input: Snowflakes gently blanket the world in white., Label: False
+Input: Raindrops fall, a gentle tap on the window pane., Label: False
+Input: Cherries in a dish, a fruity wish., Label: True
+Input: Grapefruit sunrise, morning in disguise., Label: True
+Input: The river flows steadily, carrying stories untold., Label: False
+Input: Cherries are a pop of sweetness, whether fresh or in desserts., Label: True
+Input: Kiwi green, a tropical dream., Label: True
+Input: Stars sparkle in the velvet expanse of the night sky., Label: False
+Input: Kiwi so green, a tropical dream., Label: True
+Input: Time ticks away, a constant companion., Label: False
+Input: Stars above, a celestial trove, in the vast, endless cove., Label:",1,0
